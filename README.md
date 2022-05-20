@@ -1,0 +1,3 @@
+# Antcopy
+
+Code feito para impedir a cola indesejada de terceiros ... 
